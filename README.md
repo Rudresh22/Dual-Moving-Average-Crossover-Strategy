@@ -1,1 +1,2 @@
-# Dual-Moving-Average-Crossover-Strategy
+# sma_cross
+ Simple moving average crossover system backtest
